@@ -15,7 +15,7 @@ import csv
 
 
 # Put the full path to your CSV/Excel file here
-MY_FILE = "C:\Users\s.boyer1\Documents\PythonScripts\Projects\new-coder\dataviz\data\sample_sfpd_incident_all.csv"
+MY_FILE = "C:/Users/s.boyer1/Documents/PythonScripts/Projects/new-coder/dataviz/data/sample_sfpd_incident_all.csv"
 
 
 def parse(raw_file, delimiter):
